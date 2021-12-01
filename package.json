@@ -1,0 +1,27 @@
+{
+  "scripts": {
+    "start": "react-scripts start"
+  },
+  "dependencies": {
+    "react-dom": "latest",
+    "react": "latest",
+    "moment": "latest",
+    "antd": "latest",
+    "react-scripts": "latest"
+  },
+  "keywords": [],
+  "name": "antd-reproduction-template",
+  "description": "",
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
